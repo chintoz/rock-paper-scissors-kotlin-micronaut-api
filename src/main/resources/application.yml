@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: rockPaperScissorsKotlinMicronautApi
+netty:
+  default:
+    allocator:
+      max-order: 3
